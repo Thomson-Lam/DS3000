@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "b7e4402f805c2a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cheatsheet"
+            }
+          },
+          {
             "id": "18f113054d4b78a1",
             "type": "leaf",
             "state": {
@@ -47,6 +61,20 @@
               },
               "icon": "lucide-file",
               "title": "pandas"
+            }
+          },
+          {
+            "id": "f9c31088f2ef4904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plot + seaborn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plot + seaborn"
             }
           }
         ]
@@ -194,6 +222,8 @@
   "lastOpenFiles": [
     "numpy.md",
     "pandas.md",
+    "Plot + seaborn.md",
+    "Cheatsheet.md",
     "Loss functions.md",
     "Welcome.md"
   ]
